@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "slug": "doa-selepas-makan",
+    "category": "doa-harian",
+    "name_my": "Doa Selepas Makan",
+    "name_id": "Doa Setelah Makan",
+    "name_en": "Supplication After Eating",
+    "arabic": "اَلْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَنَا وَسَقَانَا وَجَعَلَنَا مُسْلِمِينَ",
+    "rumi": "Alhamdulillahil-ladzii ath'amanaa wa saqaanaa wa ja'alanaa muslimiin",
+    "translation_my": "Segala puji bagi Allah yang telah memberi kami makan dan minum, serta menjadikan kami orang-orang Islam.",
+    "translation_id": "Segala puji bagi Allah yang telah memberi kami makan dan minum, serta menjadikan kami orang-orang Muslim.",
+    "translation_en": "All praise is due to Allah Who has fed us and given us drink, and made us Muslims.",
+    "fadhilat_my": "Membaca doa ini selepas makan adalah sunnah Rasulullah SAW yang menunjukkan rasa syukur kepada Allah SWT atas nikmat rezeki yang dikurniakan. Sesiapa yang membacanya dengan penuh keikhlasan, ia akan mendapat ganjaran pahala dan keberkatan dalam makanannya. Amalan ini juga mendidik jiwa agar sentiasa bersyukur dan tidak lalai terhadap nikmat yang diterima.",
+    "fadhilat_id": "Membaca doa ini setelah makan merupakan sunnah Rasulullah SAW yang mencerminkan rasa syukur kepada Allah SWT atas nikmat rezeki yang diberikan. Barangsiapa yang membacanya dengan penuh keikhlasan, maka ia akan mendapatkan pahala dan keberkahan dalam makanannya. Amalan ini juga mendidik jiwa agar senantiasa bersyukur dan tidak lalai terhadap nikmat yang telah diterima.",
+    "fadhilat_en": "Reciting this supplication after eating is a Sunnah of the Prophet SAW that reflects gratitude to Allah SWT for the blessing of sustenance. Whoever recites it sincerely will be rewarded and blessed in their food. This practice also trains the soul to remain constantly grateful and mindful of the blessings received.",
+    "sumber": "Hadis Riwayat Abu Dawud (no. 3850), at-Tirmidzi (no. 3457) dan an-Nasai; daripada Mu'adz ibn Anas al-Juhani RA. Dinilai hasan oleh at-Tirmidzi.",
+    "type": "doa",
+    "bilangan": 1,
+    "tags": [
+      "doa-makan",
+      "selepas-makan",
+      "syukur",
+      "rezeki",
+      "sunnah",
+      "harian",
+      "makan-minum",
+      "doa-harian",
+      "adab-makan"
+    ],
+    "id": "doa-selepas-makan",
+    "status": "published",
+    "createdAt": "2026-03-12T06:11:11.962Z",
+    "publishedAt": "2026-03-12T06:11:36.140Z",
+    "featured": false,
+    "order": 0,
+    "tier": 1
+  }
+]
